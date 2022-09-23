@@ -11,9 +11,18 @@ p {
 
 }
 a {
-    color: rgba(165, 42, 42, 0.422);
+    color: rgba(165, 42, 42, 0.363);
 }
-img {
-    max-width: 600px;
-    display: block;
+.croissant-photo {
+max-width: 100%;
+border-radius: 10px;
+display: block;
+margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+}
+footer a {
+    margin: 0 10px;
 }
