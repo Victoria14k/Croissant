@@ -11,13 +11,13 @@ p {
 
 }
 a {
-    color: rgba(165, 42, 42, 0.363);
+    color: rgba(129, 73, 73, 0.363);
 }
 .croissant-photo {
-max-width: 100%;
+max-width: 60%;
 border-radius: 10px;
 display: block;
-margin-top: 20px;
+margin: 30px auto;
 }
 
 footer {
@@ -25,4 +25,7 @@ footer {
 }
 footer a {
     margin: 0 10px;
+}
+.mail {
+    text-align: center;
 }
